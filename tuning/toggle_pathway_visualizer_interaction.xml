@@ -1,0 +1,6 @@
+<I c="SuperInteraction" i="interaction" m="interactions.base.super_interaction" n="Scripts:TogglePathwayVisualizer" s="0xB46DC80B">
+  <T n="display_name">Toggle Pathway Overlay</T>
+  <T n="python_class">toggle_overlay</T>
+  <T n="class">SuperInteraction</T>
+  <T n="module">Scripts.pathway_visualizer</T>
+</I>

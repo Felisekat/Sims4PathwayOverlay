@@ -1,0 +1,14 @@
+<T>Scripts:TogglePathwayVisualizer</T>
+<I c="ObjectTuning" i="object_toggle_pathway" m="Felisekat.object_toggle_pathway" s="00000000B46DC80A">
+	<T n="base_class">object_Sculpture</T>
+	<T n="class">ObjectTuning</T>
+	<L n="components">
+		<V t="super_affordance_component">
+			<U n="super_affordance_component">
+				<L n="affordances">
+					<T>Scripts.TogglePathwayVisualizer</T>
+				</L>
+			</U>
+		</V>
+	</L>
+</I>
