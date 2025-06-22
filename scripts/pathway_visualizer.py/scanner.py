@@ -16,3 +16,5 @@ def scan_for_blockers(_connection=None):
 		if hasattr(obj, 'footprint_component') and obj.footprint_component is not None:
 			if obj.footprint_component.get_is_routing_obstacle():
 				output(f"Blocker: {obj.definition.name} at {obj.position}")
+
+				

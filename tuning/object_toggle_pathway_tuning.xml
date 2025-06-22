@@ -1,5 +1,5 @@
-<T>Scripts:TogglePathwayVisualizer</T>
-<I c="ObjectTuning" i="object_toggle_pathway" m="Felisekat.object_toggle_pathway" s="00000000B46DC80A">
+<!-- <T>Scripts:TogglePathwayVisualizer</T> -->
+<I c="ObjectTuning" i="object_toggle_pathway" m="Felisekat.object_toggle_pathway" s="0x6B46644C09AC104A">
 	<T n="base_class">object_Sculpture</T>
 	<T n="class">ObjectTuning</T>
 	<L n="components">

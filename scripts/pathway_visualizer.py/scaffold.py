@@ -14,3 +14,5 @@ def visualize_objects(_connection=None):
 			output(f"Object: {obj.definition.name}, Position: {position}, Footprint: {footprint}")
 		except Exception as e:
 			output(f"Could not get data for object: {obj}, Error: {e}")
+
+			

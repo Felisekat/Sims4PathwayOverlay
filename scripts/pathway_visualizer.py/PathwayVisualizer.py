@@ -40,4 +40,6 @@ def toggle_overlay(_connection=None):
 					Context.draw_line(point, point + Vector3(0, 1, 0), color=(255, 0, 0)) #red
 				else:
 					context.draw_line(point, point + Vector3(0, 1, 0), color=(0, 255, 0)) #green
-		output("Grid overlay drawn.")
+					output("Grid overlay drawn.")
+
+					
